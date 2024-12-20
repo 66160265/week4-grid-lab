@@ -35,3 +35,4 @@
 - git commit -m "เชื่อมต่อ JavaScript"
 - git add README.md
 - git commit -m "เพิ่ม Git command used"
+- git push
